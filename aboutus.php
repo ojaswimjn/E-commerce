@@ -47,7 +47,7 @@ include('customer_header.php');
         ideal jobs. Also search projects, and respond to client invitations.
         Wide variety and high pay. Clients are now posting jobs in hundreds of skill categories, paying top price for
         great work.
-        More and more success. The greater the success you have on projects, the more likely you are to get hired by
+        More and more success. The greater the success you have on projects, more likely you are to get hired by
         clients that use GetLance.</p>
 
       <br>
